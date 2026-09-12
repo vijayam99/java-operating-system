@@ -39,7 +39,7 @@ From a terminal:
 git clone https://github.com/vijayam99/java-operating-system.git
 cd java-operating-system
 mkdir out
-javac -d out src/*.java
+javac -d out *.java
 java -cp out Main
 ```
 
